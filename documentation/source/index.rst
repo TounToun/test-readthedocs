@@ -8,7 +8,7 @@ Welcome to TestDoc's documentation!
 
 This is a test example of readthedocs documentation.
 
-Test Web Hook !
+Test Web Hook 2 !
 
 .. toctree::
    :maxdepth: 2
